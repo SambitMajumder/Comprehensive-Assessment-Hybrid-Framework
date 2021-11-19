@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-19T16:04:37 IST" name="Suite" finished-at="2021-11-19T16:06:13 IST" duration-ms="96039">
+    <groups>
+    </groups>
+    <test started-at="2021-11-19T16:04:37 IST" name="Test" finished-at="2021-11-19T16:06:13 IST" duration-ms="96039">
+      <class name="com.mindtree.Runner.TestRunner">
+        <test-method signature="loadBrowser()[pri:1, instance:com.mindtree.Runner.TestRunner@223aa2f7]" started-at="2021-11-19T16:04:37 IST" name="loadBrowser" finished-at="2021-11-19T16:04:56 IST" duration-ms="18984" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadBrowser -->
+        <test-method signature="sortingFeature()[pri:2, instance:com.mindtree.Runner.TestRunner@223aa2f7]" started-at="2021-11-19T16:04:56 IST" name="sortingFeature" finished-at="2021-11-19T16:05:05 IST" duration-ms="8846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortingFeature -->
+        <test-method signature="navigatingTheMenus()[pri:3, instance:com.mindtree.Runner.TestRunner@223aa2f7]" started-at="2021-11-19T16:05:05 IST" name="navigatingTheMenus" finished-at="2021-11-19T16:05:21 IST" duration-ms="15148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatingTheMenus -->
+        <test-method signature="searchProduct()[pri:4, instance:com.mindtree.Runner.TestRunner@223aa2f7]" started-at="2021-11-19T16:05:21 IST" name="searchProduct" finished-at="2021-11-19T16:05:27 IST" duration-ms="6031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method signature="addToCart()[pri:5, instance:com.mindtree.Runner.TestRunner@223aa2f7]" started-at="2021-11-19T16:05:27 IST" name="addToCart" finished-at="2021-11-19T16:05:37 IST" duration-ms="10384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method signature="addGiftCard()[pri:6, instance:com.mindtree.Runner.TestRunner@223aa2f7]" started-at="2021-11-19T16:05:38 IST" name="addGiftCard" finished-at="2021-11-19T16:05:44 IST" duration-ms="6419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addGiftCard -->
+        <test-method signature="contactUs()[pri:7, instance:com.mindtree.Runner.TestRunner@223aa2f7]" started-at="2021-11-19T16:05:44 IST" name="contactUs" finished-at="2021-11-19T16:05:51 IST" duration-ms="6507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUs -->
+        <test-method signature="wishList()[pri:8, instance:com.mindtree.Runner.TestRunner@223aa2f7]" started-at="2021-11-19T16:05:51 IST" name="wishList" finished-at="2021-11-19T16:06:02 IST" duration-ms="11232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishList -->
+        <test-method signature="cart()[pri:9, instance:com.mindtree.Runner.TestRunner@223aa2f7]" started-at="2021-11-19T16:06:03 IST" name="cart" finished-at="2021-11-19T16:06:09 IST" duration-ms="6253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cart -->
+        <test-method signature="aboutUs()[pri:10, instance:com.mindtree.Runner.TestRunner@223aa2f7]" started-at="2021-11-19T16:06:09 IST" name="aboutUs" finished-at="2021-11-19T16:06:13 IST" duration-ms="3820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutUs -->
+      </class> <!-- com.mindtree.Runner.TestRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

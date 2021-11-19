@@ -1,0 +1,278 @@
+2021-11-18 16:55:30,528 - com.mindtree.Utilities.BrowserConnection -INFO - Chrome Browser is launching...
+2021-11-18 16:55:34,777 - com.mindtree.Utilities.BrowserConnection -INFO - Opened the Website URL!
+2021-11-18 16:56:34,804 - com.mindtree.Utilities.BrowserConnection -INFO - Chrome Browser is launching...
+2021-11-18 16:56:38,942 - com.mindtree.Utilities.BrowserConnection -INFO - Opened the Website URL!
+2021-11-18 16:56:41,288 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-18 16:57:23,624 - com.mindtree.Utilities.BrowserConnection -INFO - Chrome Browser is launching...
+2021-11-18 16:57:31,007 - com.mindtree.Utilities.BrowserConnection -INFO - Opened the Website URL!
+2021-11-18 16:57:33,314 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-18 17:12:20,882 - com.mindtree.Utilities.BrowserConnection -INFO - Chrome Browser is launching...
+2021-11-18 17:12:29,005 - com.mindtree.Utilities.BrowserConnection -INFO - Opened the Website URL!
+2021-11-18 17:12:31,340 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-18 17:12:35,725 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked on the Personalized Gifts options
+2021-11-18 17:12:35,877 - com.mindtree.Utilities.BrowserConnection -INFO - Verify if it is the desired page...
+2021-11-18 17:12:37,884 - com.mindtree.Utilities.BrowserConnection -INFO - Welcome to Personalized gifts
+2021-11-18 17:12:39,910 - com.mindtree.Utilities.BrowserConnection -INFO - Selecting the Sort By feature
+2021-11-18 17:12:42,322 - com.mindtree.Utilities.BrowserConnection -INFO - Selected the option Best Selling
+2021-11-18 17:12:42,323 - com.mindtree.Utilities.BrowserConnection -INFO - Verifying first product Personalized Moon Lamp
+2021-11-18 17:12:42,423 - com.mindtree.Utilities.BrowserConnection -INFO - First product is Personalized Moon Lamp
+2021-11-18 17:12:42,664 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-18 17:29:32,465 - com.mindtree.Utilities.BrowserConnection -INFO - Chrome Browser is launching...
+2021-11-18 17:29:36,725 - com.mindtree.Utilities.BrowserConnection -INFO - Opened the Website URL!
+2021-11-18 17:29:39,077 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-18 17:29:41,545 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked on the Personalized Gifts options
+2021-11-18 17:29:41,716 - com.mindtree.Utilities.BrowserConnection -INFO - Verify if it is the desired page...
+2021-11-18 17:29:43,728 - com.mindtree.Utilities.BrowserConnection -INFO - Welcome to Personalized gifts
+2021-11-18 17:29:45,761 - com.mindtree.Utilities.BrowserConnection -INFO - Selecting the Sort By feature
+2021-11-18 17:29:47,720 - com.mindtree.Utilities.BrowserConnection -INFO - Selected the option Best Selling
+2021-11-18 17:29:47,721 - com.mindtree.Utilities.BrowserConnection -INFO - Verifying first product Personalized Moon Lamp
+2021-11-18 17:29:47,844 - com.mindtree.Utilities.BrowserConnection -INFO - First product is Personalized Moon Lamp
+2021-11-18 17:29:48,135 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-18 17:29:50,392 - com.mindtree.Utilities.BrowserConnection -INFO - Hovering the Gifts option
+2021-11-18 17:29:52,786 - com.mindtree.Utilities.BrowserConnection -INFO - Clicking the Guys for Gifts Option
+2021-11-18 17:29:54,833 - com.mindtree.Utilities.BrowserConnection -INFO - Verify if it is the Gifts for Guys page!
+2021-11-18 17:29:54,834 - com.mindtree.Utilities.BrowserConnection -INFO - It is the Gifts for guys Page
+2021-11-18 17:29:59,201 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Christmas Gifts options
+2021-11-18 17:30:01,265 - com.mindtree.Utilities.BrowserConnection -INFO - Verify if it is the Christmas Gifts page!
+2021-11-18 17:30:01,265 - com.mindtree.Utilities.BrowserConnection -INFO - It is the Christmas Gifts Page
+2021-11-18 17:30:03,542 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-18 17:59:34,910 - com.mindtree.Utilities.BrowserConnection -INFO - Chrome Browser is launching...
+2021-11-18 17:59:43,108 - com.mindtree.Utilities.BrowserConnection -INFO - Opened the Website URL!
+2021-11-18 17:59:45,411 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-18 17:59:47,726 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked on the Personalized Gifts options
+2021-11-18 17:59:47,847 - com.mindtree.Utilities.BrowserConnection -INFO - Verify if it is the desired page...
+2021-11-18 17:59:49,855 - com.mindtree.Utilities.BrowserConnection -INFO - Welcome to Personalized gifts
+2021-11-18 17:59:51,878 - com.mindtree.Utilities.BrowserConnection -INFO - Selecting the Sort By feature
+2021-11-18 17:59:54,971 - com.mindtree.Utilities.BrowserConnection -INFO - Selected the option Best Selling
+2021-11-18 17:59:54,972 - com.mindtree.Utilities.BrowserConnection -INFO - Verifying first product Personalized Moon Lamp
+2021-11-18 17:59:55,078 - com.mindtree.Utilities.BrowserConnection -INFO - First product is Personalized Moon Lamp
+2021-11-18 17:59:55,370 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-18 17:59:57,551 - com.mindtree.Utilities.BrowserConnection -INFO - Hovering the Gifts option
+2021-11-18 18:00:00,189 - com.mindtree.Utilities.BrowserConnection -INFO - Clicking the Guys for Gifts Option
+2021-11-18 18:00:02,223 - com.mindtree.Utilities.BrowserConnection -INFO - Verify if it is the Gifts for Guys page!
+2021-11-18 18:00:02,223 - com.mindtree.Utilities.BrowserConnection -INFO - It is the Gifts for guys Page
+2021-11-18 18:00:09,632 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Christmas Gifts options
+2021-11-18 18:00:11,696 - com.mindtree.Utilities.BrowserConnection -INFO - Verify if it is the Christmas Gifts page!
+2021-11-18 18:00:11,696 - com.mindtree.Utilities.BrowserConnection -INFO - It is the Christmas Gifts Page
+2021-11-18 18:00:14,021 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-18 18:00:16,188 - com.mindtree.Utilities.BrowserConnection -INFO - Searching for harry potter product
+2021-11-18 18:00:18,235 - com.mindtree.Utilities.BrowserConnection -INFO - First Product Title: Harry Potter Plush Soft Toy
+2021-11-18 18:00:18,236 - com.mindtree.Utilities.BrowserConnection -INFO - The Product Contains the Keyword SEARCH SUCCESSFUL
+2021-11-18 18:00:20,444 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-18 18:00:22,697 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked Secret Santa Gifts Option
+2021-11-18 18:00:24,869 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the first product
+2021-11-18 18:00:26,948 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Add To Cart Button
+2021-11-18 18:00:29,050 - com.mindtree.Utilities.BrowserConnection -INFO - Click the Continue Shopping to Shop more
+2021-11-18 18:00:31,252 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-18 18:00:33,204 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the gift card option
+2021-11-18 18:00:33,344 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the 2000 Gift card option
+2021-11-18 18:00:33,461 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Add to Cart button..The Gift card added
+2021-11-18 18:00:35,557 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked on the Continue Shopping button for more shopping
+2021-11-18 18:00:37,723 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 01:01:51,060 - com.mindtree.Utilities.BrowserConnection -INFO - Chrome Browser is launching...
+2021-11-19 01:01:54,508 - com.mindtree.Utilities.BrowserConnection -INFO - Opened the Website URL!
+2021-11-19 01:01:56,883 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 01:01:59,475 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked on the Personalized Gifts options
+2021-11-19 01:01:59,664 - com.mindtree.Utilities.BrowserConnection -INFO - Verify if it is the desired page...
+2021-11-19 01:02:01,673 - com.mindtree.Utilities.BrowserConnection -INFO - Welcome to Personalized gifts
+2021-11-19 01:02:03,699 - com.mindtree.Utilities.BrowserConnection -INFO - Selecting the Sort By feature
+2021-11-19 01:02:06,129 - com.mindtree.Utilities.BrowserConnection -INFO - Selected the option Best Selling
+2021-11-19 01:02:06,129 - com.mindtree.Utilities.BrowserConnection -INFO - Verifying first product Personalized Moon Lamp
+2021-11-19 01:02:06,157 - com.mindtree.Utilities.BrowserConnection -INFO - First product is Personalized Moon Lamp
+2021-11-19 01:02:06,520 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 01:02:08,769 - com.mindtree.Utilities.BrowserConnection -INFO - Hovering the Gifts option
+2021-11-19 01:02:11,537 - com.mindtree.Utilities.BrowserConnection -INFO - Clicking the Guys for Gifts Option
+2021-11-19 01:02:13,599 - com.mindtree.Utilities.BrowserConnection -INFO - Verify if it is the Gifts for Guys page!
+2021-11-19 01:02:13,600 - com.mindtree.Utilities.BrowserConnection -INFO - It is the Gifts for guys Page
+2021-11-19 01:02:18,559 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Christmas Gifts options
+2021-11-19 01:02:20,601 - com.mindtree.Utilities.BrowserConnection -INFO - Verify if it is the Christmas Gifts page!
+2021-11-19 01:02:20,602 - com.mindtree.Utilities.BrowserConnection -INFO - It is the Christmas Gifts Page
+2021-11-19 01:02:22,873 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 01:02:25,020 - com.mindtree.Utilities.BrowserConnection -INFO - Searching for harry potter product
+2021-11-19 01:02:27,076 - com.mindtree.Utilities.BrowserConnection -INFO - First Product Title: Harry Potter Plush Soft Toy
+2021-11-19 01:02:27,076 - com.mindtree.Utilities.BrowserConnection -INFO - The Product Contains the Keyword SEARCH SUCCESSFUL
+2021-11-19 01:02:29,283 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 01:02:31,507 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked Secret Santa Gifts Option
+2021-11-19 01:02:33,750 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the first product
+2021-11-19 01:02:35,849 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Add To Cart Button
+2021-11-19 01:02:37,966 - com.mindtree.Utilities.BrowserConnection -INFO - Click the Continue Shopping to Shop more
+2021-11-19 01:02:40,156 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 01:02:42,154 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the gift card option
+2021-11-19 01:02:42,329 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the 2000 Gift card option
+2021-11-19 01:02:42,459 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Add to Cart button..The Gift card added
+2021-11-19 01:02:44,545 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked on the Continue Shopping button for more shopping
+2021-11-19 01:02:46,718 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 01:02:48,400 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Contact us page option
+2021-11-19 01:02:48,504 - com.mindtree.Utilities.BrowserConnection -INFO - Entering the details: 
+2021-11-19 01:02:48,582 - com.mindtree.Utilities.BrowserConnection -INFO - Raju Halder
+2021-11-19 01:02:48,667 - com.mindtree.Utilities.BrowserConnection -INFO - raju1@gmail.com
+2021-11-19 01:02:48,755 - com.mindtree.Utilities.BrowserConnection -INFO - This is for testing project
+2021-11-19 01:02:50,837 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the submit button
+2021-11-19 01:02:52,841 - com.mindtree.Utilities.BrowserConnection -INFO - Successfully contacted
+2021-11-19 01:02:53,682 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 01:02:55,954 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the top 50 option
+2021-11-19 01:02:59,045 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the first product
+2021-11-19 01:03:03,112 - com.mindtree.Utilities.BrowserConnection -INFO - Wish List button clicked
+2021-11-19 01:03:05,152 - com.mindtree.Utilities.BrowserConnection -INFO - Got the Successfully added to wishlist Message
+2021-11-19 01:03:05,465 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 01:03:07,559 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the cart option
+2021-11-19 01:03:07,589 - com.mindtree.Utilities.BrowserConnection -INFO - Cart has some items
+2021-11-19 01:03:09,726 - com.mindtree.Utilities.BrowserConnection -INFO - Back to Shopping
+2021-11-19 01:03:12,002 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 01:03:13,756 - com.mindtree.Utilities.BrowserConnection -INFO - About Us page opened
+2021-11-19 01:03:13,861 - com.mindtree.Utilities.BrowserConnection -INFO - It is the the About us page
+2021-11-19 01:03:15,999 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 11:48:16,616 - com.mindtree.Utilities.BrowserConnection -INFO - Chrome Browser is launching...
+2021-11-19 11:48:21,986 - com.mindtree.Utilities.BrowserConnection -INFO - Opened the Website URL!
+2021-11-19 11:48:25,825 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Contact us page option
+2021-11-19 11:48:28,335 - com.mindtree.Utilities.BrowserConnection -INFO - Entering the details: 
+2021-11-19 11:48:28,617 - com.mindtree.Utilities.BrowserConnection -INFO - Raju Halder
+2021-11-19 11:48:28,695 - com.mindtree.Utilities.BrowserConnection -INFO - raju1@gmail.com
+2021-11-19 11:48:28,785 - com.mindtree.Utilities.BrowserConnection -INFO - This is for testing project
+2021-11-19 11:48:30,849 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the submit button
+2021-11-19 11:48:32,860 - com.mindtree.Utilities.BrowserConnection -INFO - Successfully contacted
+2021-11-19 13:13:44,992 - com.mindtree.Utilities.BrowserConnection -INFO - Chrome Browser is launching...
+2021-11-19 13:13:52,962 - com.mindtree.Utilities.BrowserConnection -INFO - Opened the Website URL!
+2021-11-19 13:13:55,817 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 13:14:00,397 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked on the Personalized Gifts options
+2021-11-19 13:14:00,610 - com.mindtree.Utilities.BrowserConnection -INFO - Verify if it is the desired page...
+2021-11-19 13:14:02,624 - com.mindtree.Utilities.BrowserConnection -INFO - Welcome to Personalized gifts
+2021-11-19 13:14:04,653 - com.mindtree.Utilities.BrowserConnection -INFO - Selecting the Sort By feature
+2021-11-19 13:14:07,281 - com.mindtree.Utilities.BrowserConnection -INFO - Selected the option Best Selling
+2021-11-19 13:14:07,281 - com.mindtree.Utilities.BrowserConnection -INFO - Verifying first product Personalized Moon Lamp
+2021-11-19 13:14:07,394 - com.mindtree.Utilities.BrowserConnection -INFO - First product is Personalized Moon Lamp
+2021-11-19 13:14:07,659 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 13:14:09,973 - com.mindtree.Utilities.BrowserConnection -INFO - Hovering the Gifts option
+2021-11-19 13:14:13,429 - com.mindtree.Utilities.BrowserConnection -INFO - Clicking the Guys for Gifts Option
+2021-11-19 13:14:15,480 - com.mindtree.Utilities.BrowserConnection -INFO - Verify if it is the Gifts for Guys page!
+2021-11-19 13:14:15,481 - com.mindtree.Utilities.BrowserConnection -INFO - It is the Gifts for guys Page
+2021-11-19 13:14:19,833 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Christmas Gifts options
+2021-11-19 13:14:21,883 - com.mindtree.Utilities.BrowserConnection -INFO - Verify if it is the Christmas Gifts page!
+2021-11-19 13:14:21,883 - com.mindtree.Utilities.BrowserConnection -INFO - It is the Christmas Gifts Page
+2021-11-19 13:14:24,185 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 13:14:26,702 - com.mindtree.Utilities.BrowserConnection -INFO - Searching for harry potter product
+2021-11-19 13:14:28,747 - com.mindtree.Utilities.BrowserConnection -INFO - First Product Title: Harry Potter Plush Soft Toy
+2021-11-19 13:14:28,747 - com.mindtree.Utilities.BrowserConnection -INFO - The Product Contains the Keyword SEARCH SUCCESSFUL
+2021-11-19 13:14:30,932 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 13:14:33,304 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked Secret Santa Gifts Option
+2021-11-19 13:14:35,808 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the first product
+2021-11-19 13:14:37,883 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Add To Cart Button
+2021-11-19 13:14:39,985 - com.mindtree.Utilities.BrowserConnection -INFO - Click the Continue Shopping to Shop more
+2021-11-19 13:14:42,180 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 13:14:44,165 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the gift card option
+2021-11-19 13:14:44,300 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the 2000 Gift card option
+2021-11-19 13:14:44,480 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Add to Cart button..The Gift card added
+2021-11-19 13:14:46,580 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked on the Continue Shopping button for more shopping
+2021-11-19 13:14:48,750 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 13:14:50,462 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Contact us page option
+2021-11-19 13:14:51,772 - com.mindtree.Utilities.BrowserConnection -INFO - Entering the details: 
+2021-11-19 13:14:51,831 - com.mindtree.Utilities.BrowserConnection -INFO - Raju Halder
+2021-11-19 13:14:51,885 - com.mindtree.Utilities.BrowserConnection -INFO - raju1@gmail.com
+2021-11-19 13:14:51,945 - com.mindtree.Utilities.BrowserConnection -INFO - This is for testing project
+2021-11-19 13:14:54,022 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the submit button
+2021-11-19 13:14:56,034 - com.mindtree.Utilities.BrowserConnection -INFO - Successfully contacted
+2021-11-19 13:14:56,570 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 13:14:58,923 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the top 50 option
+2021-11-19 13:15:02,287 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the first product
+2021-11-19 13:15:06,344 - com.mindtree.Utilities.BrowserConnection -INFO - Wish List button clicked
+2021-11-19 13:15:08,386 - com.mindtree.Utilities.BrowserConnection -INFO - Got the Successfully added to wishlist Message
+2021-11-19 13:15:08,672 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 13:15:10,796 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the cart option
+2021-11-19 13:15:10,840 - com.mindtree.Utilities.BrowserConnection -INFO - Cart has some items
+2021-11-19 13:15:12,944 - com.mindtree.Utilities.BrowserConnection -INFO - Back to Shopping
+2021-11-19 13:15:15,235 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 13:15:16,936 - com.mindtree.Utilities.BrowserConnection -INFO - About Us page opened
+2021-11-19 13:15:17,023 - com.mindtree.Utilities.BrowserConnection -INFO - It is the the About us page
+2021-11-19 13:15:19,162 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 16:01:24,042 - com.mindtree.Utilities.BrowserConnection -INFO - Chrome Browser is launching...
+2021-11-19 16:01:29,797 - com.mindtree.Utilities.BrowserConnection -INFO - Opened the Website URL!
+2021-11-19 16:01:56,014 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 16:01:59,885 - com.mindtree.Utilities.BrowserConnection -INFO - Hovering the Gifts option
+2021-11-19 16:02:00,200 - com.mindtree.Utilities.BrowserConnection -INFO - Clicking the Guys for Gifts Option
+2021-11-19 16:02:05,835 - com.mindtree.Utilities.BrowserConnection -INFO - Searching for harry potter product
+2021-11-19 16:02:07,876 - com.mindtree.Utilities.BrowserConnection -INFO - First Product Title: Harry Potter Plush Soft Toy
+2021-11-19 16:02:07,877 - com.mindtree.Utilities.BrowserConnection -INFO - The Product Contains the Keyword SEARCH SUCCESSFUL
+2021-11-19 16:02:10,094 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 16:02:12,933 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked Secret Santa Gifts Option
+2021-11-19 16:02:15,482 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the first product
+2021-11-19 16:02:17,573 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Add To Cart Button
+2021-11-19 16:02:19,727 - com.mindtree.Utilities.BrowserConnection -INFO - Click the Continue Shopping to Shop more
+2021-11-19 16:02:21,938 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 16:02:23,819 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the gift card option
+2021-11-19 16:02:23,950 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the 2000 Gift card option
+2021-11-19 16:02:24,098 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Add to Cart button..The Gift card added
+2021-11-19 16:02:26,195 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked on the Continue Shopping button for more shopping
+2021-11-19 16:02:28,447 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 16:02:30,625 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Contact us page option
+2021-11-19 16:02:32,009 - com.mindtree.Utilities.BrowserConnection -INFO - Entering the details: 
+2021-11-19 16:02:32,064 - com.mindtree.Utilities.BrowserConnection -INFO - Raju Halder
+2021-11-19 16:02:32,116 - com.mindtree.Utilities.BrowserConnection -INFO - raju1@gmail.com
+2021-11-19 16:02:32,187 - com.mindtree.Utilities.BrowserConnection -INFO - This is for testing project
+2021-11-19 16:02:34,250 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the submit button
+2021-11-19 16:02:36,252 - com.mindtree.Utilities.BrowserConnection -INFO - Successfully contacted
+2021-11-19 16:02:36,847 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 16:02:39,317 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the top 50 option
+2021-11-19 16:02:43,110 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the first product
+2021-11-19 16:02:47,193 - com.mindtree.Utilities.BrowserConnection -INFO - Wish List button clicked
+2021-11-19 16:02:49,261 - com.mindtree.Utilities.BrowserConnection -INFO - Got the Successfully added to wishlist Message
+2021-11-19 16:02:49,545 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 16:02:51,655 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the cart option
+2021-11-19 16:02:51,685 - com.mindtree.Utilities.BrowserConnection -INFO - Cart has some items
+2021-11-19 16:02:53,798 - com.mindtree.Utilities.BrowserConnection -INFO - Back to Shopping
+2021-11-19 16:02:56,096 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 16:02:57,736 - com.mindtree.Utilities.BrowserConnection -INFO - About Us page opened
+2021-11-19 16:02:57,850 - com.mindtree.Utilities.BrowserConnection -INFO - It is the the About us page
+2021-11-19 16:03:00,006 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 16:04:51,241 - com.mindtree.Utilities.BrowserConnection -INFO - Chrome Browser is launching...
+2021-11-19 16:04:54,468 - com.mindtree.Utilities.BrowserConnection -INFO - Opened the Website URL!
+2021-11-19 16:04:56,805 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 16:04:59,135 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked on the Personalized Gifts options
+2021-11-19 16:04:59,275 - com.mindtree.Utilities.BrowserConnection -INFO - Verify if it is the desired page...
+2021-11-19 16:05:01,278 - com.mindtree.Utilities.BrowserConnection -INFO - Welcome to Personalized gifts
+2021-11-19 16:05:03,295 - com.mindtree.Utilities.BrowserConnection -INFO - Selecting the Sort By feature
+2021-11-19 16:05:05,624 - com.mindtree.Utilities.BrowserConnection -INFO - Selected the option Best Selling
+2021-11-19 16:05:05,624 - com.mindtree.Utilities.BrowserConnection -INFO - Verifying first product Personalized Moon Lamp
+2021-11-19 16:05:05,651 - com.mindtree.Utilities.BrowserConnection -INFO - First product is Personalized Moon Lamp
+2021-11-19 16:05:05,912 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 16:05:08,072 - com.mindtree.Utilities.BrowserConnection -INFO - Hovering the Gifts option
+2021-11-19 16:05:10,669 - com.mindtree.Utilities.BrowserConnection -INFO - Clicking the Guys for Gifts Option
+2021-11-19 16:05:12,725 - com.mindtree.Utilities.BrowserConnection -INFO - Verify if it is the Gifts for Guys page!
+2021-11-19 16:05:12,726 - com.mindtree.Utilities.BrowserConnection -INFO - It is the Gifts for guys Page
+2021-11-19 16:05:17,008 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Christmas Gifts options
+2021-11-19 16:05:19,051 - com.mindtree.Utilities.BrowserConnection -INFO - Verify if it is the Christmas Gifts page!
+2021-11-19 16:05:19,052 - com.mindtree.Utilities.BrowserConnection -INFO - It is the Christmas Gifts Page
+2021-11-19 16:05:21,348 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 16:05:23,337 - com.mindtree.Utilities.BrowserConnection -INFO - Searching for harry potter product
+2021-11-19 16:05:25,367 - com.mindtree.Utilities.BrowserConnection -INFO - First Product Title: Harry Potter Plush Soft Toy
+2021-11-19 16:05:25,368 - com.mindtree.Utilities.BrowserConnection -INFO - The Product Contains the Keyword SEARCH SUCCESSFUL
+2021-11-19 16:05:27,555 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 16:05:29,850 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked Secret Santa Gifts Option
+2021-11-19 16:05:31,740 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the first product
+2021-11-19 16:05:33,812 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Add To Cart Button
+2021-11-19 16:05:35,927 - com.mindtree.Utilities.BrowserConnection -INFO - Click the Continue Shopping to Shop more
+2021-11-19 16:05:38,145 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 16:05:40,200 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the gift card option
+2021-11-19 16:05:40,336 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the 2000 Gift card option
+2021-11-19 16:05:40,439 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Add to Cart button..The Gift card added
+2021-11-19 16:05:42,559 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked on the Continue Shopping button for more shopping
+2021-11-19 16:05:44,752 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 16:05:46,515 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the Contact us page option
+2021-11-19 16:05:46,988 - com.mindtree.Utilities.BrowserConnection -INFO - Entering the details: 
+2021-11-19 16:05:47,057 - com.mindtree.Utilities.BrowserConnection -INFO - Raju Halder
+2021-11-19 16:05:47,107 - com.mindtree.Utilities.BrowserConnection -INFO - raju1@gmail.com
+2021-11-19 16:05:47,175 - com.mindtree.Utilities.BrowserConnection -INFO - This is for testing project
+2021-11-19 16:05:49,246 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the submit button
+2021-11-19 16:05:51,259 - com.mindtree.Utilities.BrowserConnection -INFO - Successfully contacted
+2021-11-19 16:05:51,540 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 16:05:53,847 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the top 50 option
+2021-11-19 16:05:56,663 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the first product
+2021-11-19 16:06:00,733 - com.mindtree.Utilities.BrowserConnection -INFO - Wish List button clicked
+2021-11-19 16:06:02,771 - com.mindtree.Utilities.BrowserConnection -INFO - Got the Successfully added to wishlist Message
+2021-11-19 16:06:03,050 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 16:06:05,116 - com.mindtree.Utilities.BrowserConnection -INFO - Clicked the cart option
+2021-11-19 16:06:05,147 - com.mindtree.Utilities.BrowserConnection -INFO - Cart has some items
+2021-11-19 16:06:07,297 - com.mindtree.Utilities.BrowserConnection -INFO - Back to Shopping
+2021-11-19 16:06:09,567 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
+2021-11-19 16:06:11,260 - com.mindtree.Utilities.BrowserConnection -INFO - About Us page opened
+2021-11-19 16:06:11,371 - com.mindtree.Utilities.BrowserConnection -INFO - It is the the About us page
+2021-11-19 16:06:13,513 - com.mindtree.Utilities.BrowserConnection -INFO - Screenshot taken
